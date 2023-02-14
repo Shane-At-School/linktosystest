@@ -1,1 +1,1 @@
-[test](https://tmp.org)
+[test](file://tmp)
