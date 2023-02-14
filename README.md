@@ -1,1 +1,1 @@
-[test](file://tmp.org)
+[test](chrome://settings)
