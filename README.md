@@ -1,2 +1,1 @@
-# linktosystest
-test kinda
+[test](file://tmp)
